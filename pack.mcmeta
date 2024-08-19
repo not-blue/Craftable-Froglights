@@ -1,0 +1,29 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 99
+    },
+    "description": "Craft froglights with glowstone, phantom membranes and accent items. by not_blue."
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 26,
+          "max_inclusive": 41
+        },
+        "directory": "overlay_41"
+      },
+      {
+        "formats": {
+          
+          "min_inclusive": 43,
+          "max_inclusive": 48
+        },
+        "directory": "overlay_48"
+      }
+    ]
+}
+}
