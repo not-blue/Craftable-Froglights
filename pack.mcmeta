@@ -5,7 +5,7 @@
       "min_inclusive": 15,
       "max_inclusive": 99
     },
-    "description": "Craft froglights with glowstone, phantom membranes and accent items. by not_blue."
+    "description": "Craft froglights with glowstone, phantom membranes and accent items"
   },
   "overlays": {
     "entries": [
@@ -29,7 +29,7 @@
           "min_inclusive": 49,
           "max_inclusive": 99
         },
-        "directory": "overlay_49"
+        "directory": "overlay_1.21.2"
       }
     ]
 }
